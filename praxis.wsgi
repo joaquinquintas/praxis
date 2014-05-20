@@ -9,6 +9,6 @@ os.environ['PYTHON_EGG_CACHE'] = '/tmp'
 import django.core.handlers.wsgi
 application = django.core.handlers.wsgi.WSGIHandler()
 
-sys.path.append('/home/praxis')
+sys.path.append('/home/ubuntu/praxis')
 
 print >> sys.stderr, sys.path 
