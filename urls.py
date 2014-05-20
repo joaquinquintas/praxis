@@ -10,6 +10,6 @@ admin.autodiscover()
 
 
 urlpatterns = patterns('',
-    url(r'^m/$', m, name='m'),
+    url(r'^$', m, name='m'),
     (r'^static/(?P<path>.*)$', 'django.views.static.serve', {'document_root': settings.STATIC_ROOT}),
 )
