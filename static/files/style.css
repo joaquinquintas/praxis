@@ -58,24 +58,24 @@ td { vertical-align: top; }
 
 .chromeframe { margin: 0.2em 0; background: #ccc; color: black; padding: 0.2em 0; }
 
-@font-face { font-family: American Typewriter Condensed Bold; src: url(/_public/gbfonts/AmericanTypewriterCondensedBold.eot); src: url(/_public/gbfonts/AmericanTypewriterCondensedBold.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/AmericanTypewriterCondensedBold.ttf) format('truetype');}
-@font-face { font-family: American Typewriter Medium; src: url(/_public/gbfonts/AmericanTypewriterMedium.eot); src: url(/_public/gbfonts/AmericanTypewriterMedium.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/AmericanTypewriterMedium.ttf) format('truetype');}
-@font-face { font-family: Amiri; src: url(/_public/gbfonts/Amiri.eot); src: url(/_public/gbfonts/Amiri.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/Amiri.ttf) format('truetype');}
-@font-face { font-family: Courier Bold; src: url(/_public/gbfonts/CourierBold.eot); src: url(/_public/gbfonts/CourierBold.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/CourierBold.ttf) format('truetype');}
-@font-face { font-family: Droid; src: url(/_public/gbfonts/Droid.eot); src: url(/_public/gbfonts/Droid.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/Droid.ttf) format('truetype');}
-@font-face { font-family: Droid Kufi; src: url(/_public/gbfonts/DroidKufi.eot); src: url(/_public/gbfonts/DroidKufi.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/DroidKufi.ttf) format('truetype');}
-@font-face { font-family: Futura; src: url(/_public/gbfonts/Futura.eot); src: url(/_public/gbfonts/Futura.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/Futura.ttf) format('truetype');}
-@font-face { font-family: Gill Sans; src: url(/_public/gbfonts/GillSans.eot); src: url(/_public/gbfonts/GillSans.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/GillSans.ttf) format('truetype');}
-@font-face { font-family: Gill Sans Bold; src: url(/_public/gbfonts/GillSansBold.eot); src: url(/_public/gbfonts/GillSansBold.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/GillSansBold.ttf) format('truetype');}
-@font-face { font-family: Helvetica neue Condensed Bold; src: url(/_public/gbfonts/HelveticaNeueCondensedBold.eot); src: url(/_public/gbfonts/HelveticaNeueCondensedBold.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/HelveticaNeueCondensedBold.ttf) format('truetype');}
-@font-face { font-family: Helvetica neue Light; src: url(/_public/gbfonts/HelveticaNeueLight.eot); src: url(/_public/gbfonts/HelveticaNeueLight.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/HelveticaNeueLight.ttf) format('truetype');}
-@font-face { font-family: Helvetica neue Ultra Light; src: url(/_public/gbfonts/HelveticaNeueUltraLight.eot); src: url(/_public/gbfonts/HelveticaNeueUltraLight.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/HelveticaNeueUltraLight.ttf) format('truetype');}
-@font-face { font-family: Helvetica neue Medium; src: url(/_public/gbfonts/HelveticaNeueMedium.eot); src: url(/_public/gbfonts/HelveticaNeueMedium.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/HelveticaNeueMedium.ttf) format('truetype');}
-@font-face { font-family: Helvetica neue Roman; src: url(/_public/gbfonts/HelveticaNeueRoman.eot); src: url(/_public/gbfonts/HelveticaNeueRoman.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/HelveticaNeueRoman.ttf) format('truetype');}
-@font-face { font-family: Helvetica neue; src: url(/_public/gbfonts/HelveticaNeue.eot); src: url(/_public/gbfonts/HelveticaNeue.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/HelveticaNeue.ttf) format('truetype');}
-@font-face { font-family: Hoefler Bold Italic; src: url(/_public/gbfonts/HoeflerBoldItalic.eot); src: url(/_public/gbfonts/HoeflerBoldItalic.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/HoeflerBoldItalic.ttf) format('truetype');}
-@font-face { font-family: Hoefler; src: url(/_public/gbfonts/Hoefler.eot); src: url(/_public/gbfonts/Hoefler.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/Hoefler.ttf) format('truetype');}
-@font-face { font-family: Segoe; src: url(/_public/gbfonts/Segoe.eot); src: url(/_public/gbfonts/Segoe.eot?#iefix) format('embedded-opentype'), url(/_public/gbfonts/Segoe.ttf) format('truetype');}
+@font-face { font-family: American Typewriter Condensed Bold; src: url(/static/files/AmericanTypewriterCondensedBold.eot); src: url(/static/files/AmericanTypewriterCondensedBold.eot?#iefix) format('embedded-opentype'), url(/static/files/AmericanTypewriterCondensedBold.ttf) format('truetype');}
+@font-face { font-family: American Typewriter Medium; src: url(/static/files/AmericanTypewriterMedium.eot); src: url(/static/files/AmericanTypewriterMedium.eot?#iefix) format('embedded-opentype'), url(/static/files/AmericanTypewriterMedium.ttf) format('truetype');}
+@font-face { font-family: Amiri; src: url(/static/files/Amiri.eot); src: url(/static/files/Amiri.eot?#iefix) format('embedded-opentype'), url(/static/files/Amiri.ttf) format('truetype');}
+@font-face { font-family: Courier Bold; src: url(/static/files/CourierBold.eot); src: url(/static/files/CourierBold.eot?#iefix) format('embedded-opentype'), url(/static/files/CourierBold.ttf) format('truetype');}
+@font-face { font-family: Droid; src: url(/static/files/Droid.eot); src: url(/static/files/Droid.eot?#iefix) format('embedded-opentype'), url(/static/files/Droid.ttf) format('truetype');}
+@font-face { font-family: Droid Kufi; src: url(/static/files/DroidKufi.eot); src: url(/static/files/DroidKufi.eot?#iefix) format('embedded-opentype'), url(/static/files/DroidKufi.ttf) format('truetype');}
+@font-face { font-family: Futura; src: url(/static/files/Futura.eot); src: url(/static/files/Futura.eot?#iefix) format('embedded-opentype'), url(/static/files/Futura.ttf) format('truetype');}
+@font-face { font-family: Gill Sans; src: url(/static/files/GillSans.eot); src: url(/static/files/GillSans.eot?#iefix) format('embedded-opentype'), url(/static/files/GillSans.ttf) format('truetype');}
+@font-face { font-family: Gill Sans Bold; src: url(/static/files/GillSansBold.eot); src: url(/static/files/GillSansBold.eot?#iefix) format('embedded-opentype'), url(/static/files/GillSansBold.ttf) format('truetype');}
+@font-face { font-family: Helvetica neue Condensed Bold; src: url(/static/files/HelveticaNeueCondensedBold.eot); src: url(/static/files/HelveticaNeueCondensedBold.eot?#iefix) format('embedded-opentype'), url(/static/files/HelveticaNeueCondensedBold.ttf) format('truetype');}
+@font-face { font-family: Helvetica neue Light; src: url(/static/files/HelveticaNeueLight.eot); src: url(/static/files/HelveticaNeueLight.eot?#iefix) format('embedded-opentype'), url(/static/files/HelveticaNeueLight.ttf) format('truetype');}
+@font-face { font-family: Helvetica neue Ultra Light; src: url(/static/files/HelveticaNeueUltraLight.eot); src: url(/static/files/HelveticaNeueUltraLight.eot?#iefix) format('embedded-opentype'), url(/static/files/HelveticaNeueUltraLight.ttf) format('truetype');}
+@font-face { font-family: Helvetica neue Medium; src: url(/static/files/HelveticaNeueMedium.eot); src: url(/static/files/HelveticaNeueMedium.eot?#iefix) format('embedded-opentype'), url(/static/files/HelveticaNeueMedium.ttf) format('truetype');}
+@font-face { font-family: Helvetica neue Roman; src: url(/static/files/HelveticaNeueRoman.eot); src: url(/static/files/HelveticaNeueRoman.eot?#iefix) format('embedded-opentype'), url(/static/files/HelveticaNeueRoman.ttf) format('truetype');}
+@font-face { font-family: Helvetica neue; src: url(/static/files/HelveticaNeue.eot); src: url(/static/files/HelveticaNeue.eot?#iefix) format('embedded-opentype'), url(/static/files/HelveticaNeue.ttf) format('truetype');}
+@font-face { font-family: Hoefler Bold Italic; src: url(/static/files/HoeflerBoldItalic.eot); src: url(/static/files/HoeflerBoldItalic.eot?#iefix) format('embedded-opentype'), url(/static/files/HoeflerBoldItalic.ttf) format('truetype');}
+@font-face { font-family: Hoefler; src: url(/static/files/Hoefler.eot); src: url(/static/files/Hoefler.eot?#iefix) format('embedded-opentype'), url(/static/files/Hoefler.ttf) format('truetype');}
+@font-face { font-family: Segoe; src: url(/static/files/Segoe.eot); src: url(/static/files/Segoe.eot?#iefix) format('embedded-opentype'), url(/static/files/Segoe.ttf) format('truetype');}
 
 @media only screen and (min-width: 35em) {
   
