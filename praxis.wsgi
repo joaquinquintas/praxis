@@ -3,7 +3,7 @@ import sys
 
 sys.stdout = sys.stderr
 
-os.environ['DJANGO_SETTINGS_MODULE'] = 'settings'
+os.environ['DJANGO_SETTINGS_MODULE'] = 'praxis.settings'
 os.environ['PYTHON_EGG_CACHE'] = '/tmp'
 
 import django.core.handlers.wsgi
