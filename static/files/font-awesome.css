@@ -23,8 +23,8 @@
     */
 @font-face {
   font-family: "FontAwesome";
-  src: url('/static/files/FontAwesome.eot');
-  src: url('/static/files/FontAwesome.eot?#iefix') format('eot'), url('/static/files/FontAwesome.woff') format('woff'), url('/static/files/FontAwesome.ttf') format('truetype'), url('/static/files/FontAwesome.svg#FontAwesome') format('svg');
+  src: url('/_public/gbfonts/FontAwesome.eot');
+  src: url('/_public/gbfonts/FontAwesome.eot?#iefix') format('eot'), url('/_public/gbfonts/FontAwesome.woff') format('woff'), url('/_public/gbfonts/FontAwesome.ttf') format('truetype'), url('/_public/gbfonts/FontAwesome.svg#FontAwesome') format('svg');
   font-weight: normal;
   font-style: normal;
 }
