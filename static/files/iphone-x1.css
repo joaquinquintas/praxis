@@ -349,7 +349,7 @@ header .logo {
 	height: 560px;
 	right: 0;
 	width: 6px;
-	background: url(../img/iphone/swipe-bg-shadow.png) repeat-y
+	background: url(./static/files/swipe-bg-shadow.png) repeat-y
 }
 
 .GBRootControllerTypeFacebookMenu section.menu header,.GBRootControllerTypeFacebookMenu section.menu li
@@ -401,7 +401,7 @@ header .logo {
 	height: 603px;
 	right: 0;
 	width: 6px;
-	background: url(../img/iphone/swipe-bg-shadow.png) repeat-y
+	background: url(/static/files/swipe-bg-shadow.png) repeat-y
 }
 
 .GBRootControllerTypeLittleSwipe section.menu header,.GBRootControllerTypeLittleSwipe section.menu li
