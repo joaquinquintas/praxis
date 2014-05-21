@@ -62,7 +62,7 @@ header.navBar.withCircleBand>span {
 	left: 0;
 	z-index: 0;
 	background-color: #000000 !important; 
-	 background-image: url(/static/files/effectBackgroundImage@2x.png) !important;
+	 background-image: url("/static/files/effectBackgroundImage@2x.png") !important;
 }
 #fake-bg {
 	position: fixed;
@@ -75,7 +75,7 @@ header.navBar.withCircleBand>span {
 	left: 0;
 	z-index: 0;
 	background-color: #000000 !important; 
-	 background-image: url(/static/files/effectBackgroundImage@2x.png) !important;
+	 background-image: url("/static/files/effectBackgroundImage@2x.png") !important;
 }
 
 #fake-bg-header {
